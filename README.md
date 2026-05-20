@@ -70,6 +70,16 @@ This repository serves as a centralized hub for electronics research and technic
 **Contact:** https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
 ---
 
+### 8. Design and Implementation of an Adaptive, Pulse-Width
+Modulation Driven Smart Outdoor Lighting System via PhotoResistive Feedback Loops
+
+**Author:** Mahammad Mammadov
+**Link:** https://www.academia.edu/167429390/Design_and_Implementation_of_an_Adaptive_Pulse_Width_Modulation_Driven_Smart_Outdoor_Lighting_System_via_Photo_Resistive_Feedback_Loops
+
+**Instructor:** Telman Askeraliyev
+**Contact:** https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
+---
+
 ## Contact
 
 Have questions, suggestions, or want to collaborate? Reach out to the maintainer:
