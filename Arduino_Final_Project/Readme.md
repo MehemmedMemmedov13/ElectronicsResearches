@@ -4,6 +4,10 @@
 #Link to project: 
 https://www.tinkercad.com/things/ih4shZ0EZwz-arduinofinalprojectmahammadmammadov?sharecode=nmJ4aO-vhTacv-uboDY9LKLDvIw1i3OSUhfNhR19Xc4
 
+# IF ANY PROBLEMS WITH THE LINK AND PROJECT REVIEWING PLEASE CONTACT ME:
+
+Contact: mahammadmammadov0091@gmail.com
+
 An autonomous, adaptive outdoor lighting mechanism engineered on the Arduino open-source hardware architecture. This project uses an analog Light-Dependent Resistor (LDR) and Pulse-Width Modulation (PWM) to create a dynamic "sunset effect," smoothly transitioning light intensity based on real-time environmental ambient light levels.
 
 ---
