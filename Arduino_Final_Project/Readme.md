@@ -1,7 +1,7 @@
 # 🌆 Adaptive Smart Lighting System
 
 ![Platform] - TinkerCad
-#Link to project: 
+# Link to project: 
 https://www.tinkercad.com/things/ih4shZ0EZwz-arduinofinalprojectmahammadmammadov?sharecode=nmJ4aO-vhTacv-uboDY9LKLDvIw1i3OSUhfNhR19Xc4
 
 # IF ANY PROBLEMS WITH THE LINK AND PROJECT REVIEWING PLEASE CONTACT ME:
